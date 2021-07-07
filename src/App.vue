@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    app根組件
     <router-view></router-view>
   </div>
 </template>
@@ -9,7 +8,7 @@
 
 
 export default {
-  name: 'app',
+  name: 'App',
 }
 </script>
 
